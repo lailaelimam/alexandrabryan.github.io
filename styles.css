@@ -596,7 +596,8 @@ select {
   align-items: flex-start;
 }
 
-.FAQs h1, h2 {
+h1.FAQs,
+h2.FAQs {
   position: absolute;
   flex-basis: 100%;
   padding: 20px 0px 0px 55px;
